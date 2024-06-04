@@ -1,1 +1,81 @@
-{"name":"t:sections.footer.name","type":"footer","sections":{"footer":{"type":"footer","blocks":{"newsletter_rCzcNi":{"type":"newsletter","settings":{"nl_heading":"Great emails only","nl_subtext":"<p>We're talking VIP access to colour drops, secret discounts & epic giveaways.<\/p>","enable_signup":false}},"link_list_YBp3H3":{"type":"link_list","settings":{"heading":"<strong>Shop<\/strong>","menu":"footer-shop"}},"bf38cdce-d953-40eb-bd68-5784f6a94beb":{"type":"link_list","settings":{"heading":"Explore","menu":"footer-menu-help"}},"54291d32-885e-4d8f-bcc8-3e08b42000f4":{"type":"link_list","settings":{"heading":"Support","menu":"footer"}},"link_list_FmEy9T":{"type":"link_list","disabled":true,"settings":{"heading":"Quick links","menu":"footer"}},"df7d35c2-7624-476b-b3aa-bd3fa92d1a41":{"type":"text","settings":{"heading":"♥ HAPPINESS GUARANTEE","subtext":"<p>The Snoozy Happiness Team is your go-to when you need a recommendation, a refund, or just a reason to smile. Seriously, reach out. Even just to say hi.<\/p>"}}},"block_order":["newsletter_rCzcNi","link_list_YBp3H3","bf38cdce-d953-40eb-bd68-5784f6a94beb","54291d32-885e-4d8f-bcc8-3e08b42000f4","link_list_FmEy9T","df7d35c2-7624-476b-b3aa-bd3fa92d1a41"],"settings":{"color_scheme":"background-1","newsletter_enable":false,"newsletter_heading":"<strong>Great emails only<\/strong>","enable_follow_on_shop":false,"show_social":true,"enable_country_selector":false,"enable_language_selector":false,"payment_enable":false,"show_policy":false,"margin_top":0,"padding_top":64,"padding_bottom":0,"footer_text_credits":"© 2024, Snoozy US"}}},"order":["footer"]}
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "newsletter_rCzcNi": {
+          "type": "newsletter",
+          "settings": {
+            "nl_heading": "Great emails only",
+            "nl_subtext": "<p>We're talking VIP access to colour drops, secret discounts & epic giveaways.<\/p>",
+            "enable_signup": false
+          }
+        },
+        "link_list_YBp3H3": {
+          "type": "link_list",
+          "settings": {
+            "heading": "<strong>Shop<\/strong>",
+            "menu": ""
+          }
+        },
+        "bf38cdce-d953-40eb-bd68-5784f6a94beb": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Explore",
+            "menu": ""
+          }
+        },
+        "54291d32-885e-4d8f-bcc8-3e08b42000f4": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Support",
+            "menu": "footer"
+          }
+        },
+        "link_list_FmEy9T": {
+          "type": "link_list",
+          "disabled": true,
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "df7d35c2-7624-476b-b3aa-bd3fa92d1a41": {
+          "type": "text",
+          "settings": {
+            "heading": "♥ HAPPINESS GUARANTEE",
+            "subtext": "<p>The Snoozy Happiness Team is your go-to when you need a recommendation, a refund, or just a reason to smile. Seriously, reach out. Even just to say hi.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "newsletter_rCzcNi",
+        "link_list_YBp3H3",
+        "bf38cdce-d953-40eb-bd68-5784f6a94beb",
+        "54291d32-885e-4d8f-bcc8-3e08b42000f4",
+        "link_list_FmEy9T",
+        "df7d35c2-7624-476b-b3aa-bd3fa92d1a41"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "newsletter_enable": false,
+        "newsletter_heading": "<strong>Great emails only<\/strong>",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 64,
+        "padding_bottom": 0,
+        "footer_text_credits": "© 2024, GroundMate IO"
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

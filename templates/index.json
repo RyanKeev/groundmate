@@ -36,9 +36,8 @@
         "buttons_krVzyN"
       ],
       "settings": {
-        "image": "",
-        "mobile_image": "",
-        "image_overlay_opacity": 0,
+        "image": "shopify:\/\/shop_images\/groundmate-hero-banner.jpg",
+        "image_overlay_opacity": 40,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
@@ -56,22 +55,19 @@
         "review_iG7fKT": {
           "type": "review",
           "settings": {
-            "review_text": "This silver-infused pillowcase changed our hair and skin forever",
-            "image": ""
+            "review_text": "This silver-infused pillowcase changed our hair and skin forever"
           }
         },
         "review_zyzmXB": {
           "type": "review",
           "settings": {
-            "review_text": "In as little as four weeks, the pillowcase works to prevent breakouts",
-            "image": ""
+            "review_text": "In as little as four weeks, the pillowcase works to prevent breakouts"
           }
         },
         "review_g7d4wN": {
           "type": "review",
           "settings": {
-            "review_text": "An amazing addition to beds everywhere to help promote the well-being of your skin",
-            "image": ""
+            "review_text": "An amazing addition to beds everywhere to help promote the well-being of your skin"
           }
         }
       },
@@ -81,7 +77,7 @@
         "review_g7d4wN"
       ],
       "settings": {
-        "heading": "Over 50,000 sleepers <br> have spoken",
+        "heading": "Over 50,000 sleepers  have spoken",
         "fans_comment": "What our fans say",
         "rating": "★★★★★ (4.8)",
         "content": "<p>based 2,814 Reviews<\/p>",
@@ -103,7 +99,6 @@
             "info_block_color": "#000000",
             "content_alignment": "left",
             "note": "",
-            "image": "",
             "caption": "",
             "title": "<h1><em>Snoozy x Kylie<\/em><\/h1>",
             "content": "<p>Introducing our very first collab, we've partnered with superstar, Kylie Verzosa, known for her class and always feeling and looking the best. Spice up your bedroom with beautiful silk essentials, and experience true beauty sleep.<\/p>",
@@ -302,7 +297,6 @@
         "column_JpCjXp": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/nucleus.svg",
             "rating": "",
             "title": "<em>Infused with silver<\/em>",
             "text": "<p>Silver's been used for years as a natural, safe way to stop bacterial spread. <\/p>",
@@ -313,7 +307,6 @@
         "column_zKrzMT": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bacteria.svg",
             "rating": "",
             "title": "<em>Stops bad bacteria<\/em>",
             "text": "<p>We're talking P. Acnes and Staph, shown to trigger acne and other skin concerns.<\/p>",
@@ -324,7 +317,6 @@
         "column_ahxBa9": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/approved_test.svg",
             "rating": "",
             "title": "<em>Lab-tested<\/em>",
             "text": "<p>Antibacterial for over two years, you can sleep easy knowing your silver's working.<\/p>",
@@ -411,14 +403,11 @@
             "before_text": "Before",
             "after_text": "After",
             "drag_initial_position": 50,
-            "video_poster": "shopify:\/\/shop_images\/cover.jpg",
             "show_benefits_on_desktop": false,
             "show_benefits_on_mobile": true,
             "show_benefits_block": true,
             "benefits_background": "#ffffff",
-            "benefits_image_one": "shopify:\/\/shop_images\/snoozy-bacteria-snoozy.png",
             "benefits_title_one": "SNOOZY",
-            "benefits_image_two": "shopify:\/\/shop_images\/cotton_compare.png",
             "benefits_title_two": "COTTON",
             "benefits_title_third": "",
             "benefits_title_fourth": ""
@@ -501,7 +490,6 @@
         "column_a4izQ8": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/frontpage-ugc-2_1c54edfb-06ed-4453-b2e6-b4ccec3b7246.jpg",
             "rating": "<strong>@sam<\/strong>",
             "title": "<em>\"Sleeping will and protecting my skin with Snoozy\"<\/em>",
             "text": "",
@@ -512,7 +500,6 @@
         "column_pjCGdy": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/frontpage-ugc-1.jpg",
             "rating": "<strong>@zoe<\/strong>",
             "title": "<em>\"Thank you to Snoozy for a good, worry-free night's sleep\"<\/em>",
             "text": "",
@@ -523,7 +510,6 @@
         "column_CBbKqE": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/frontpage-ugc-3.jpg",
             "rating": "<strong>@kezia<\/strong>",
             "title": "<em>\"Thank you, thank you, thank you!\"<\/em>",
             "text": "",
@@ -602,7 +588,6 @@
         "column_jBeP9R": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/perfect_fit_50x50_f03f1f2d-3204-430e-95ec-036e9fb75937.svg",
             "rating": "",
             "title": "All Skin Types",
             "text": "",
@@ -613,7 +598,6 @@
         "column_zqekBk": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/fair_price_50x50_72e0ae56-5399-4c5e-97ec-c42744657290.svg",
             "rating": "",
             "title": "Affordable",
             "text": "",
@@ -624,7 +608,6 @@
         "column_xKNFYK": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/premium_quality_50x50_fe157f57-95c0-42c7-a0d7-867b82de1b2b.svg",
             "rating": "",
             "title": "Vegan Options",
             "text": "",
@@ -635,7 +618,6 @@
         "column_twVeWB": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ultra_soft_50x50_6b83f63f-9a13-4257-ac4d-e71472007361.svg",
             "rating": "",
             "title": "Ultra Soft",
             "text": "",
@@ -646,7 +628,6 @@
         "column_xPQPFH": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/easy_care_50x50_d6edacc7-f6cf-4592-bbfb-037567c11829.svg",
             "rating": "",
             "title": "Easy Care",
             "text": "",
@@ -657,7 +638,6 @@
         "column_PJDGf6": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/150k_reviews_50x50_ca444d0b-4b2d-4f1a-9aaf-1298bb74c2f8.svg",
             "rating": "",
             "title": "Top Rated",
             "text": "",

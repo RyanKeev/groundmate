@@ -297,6 +297,7 @@
         "column_JpCjXp": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/groundmate-lp-3.jpg",
             "rating": "",
             "title": "<em>Infused with silver<\/em>",
             "text": "<p>Silver's been used for years as a natural, safe way to stop bacterial spread. <\/p>",
@@ -307,6 +308,7 @@
         "column_zKrzMT": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/neck_pain.png",
             "rating": "",
             "title": "<em>Stops bad bacteria<\/em>",
             "text": "<p>We're talking P. Acnes and Staph, shown to trigger acne and other skin concerns.<\/p>",
@@ -317,6 +319,7 @@
         "column_ahxBa9": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/groundmate-review-2.jpg",
             "rating": "",
             "title": "<em>Lab-tested<\/em>",
             "text": "<p>Antibacterial for over two years, you can sleep easy knowing your silver's working.<\/p>",

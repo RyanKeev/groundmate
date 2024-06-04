@@ -239,7 +239,7 @@
         "featured_collection_D48A3k": {
           "type": "featured_collection",
           "settings": {
-            "collection": "skin-savior™",
+            "collection": "frontpage",
             "button_text": "PRE-ORDER",
             "button_link": ""
           }
@@ -247,7 +247,7 @@
         "featured_collection_WJzPVz": {
           "type": "featured_collection",
           "settings": {
-            "collection": "mulberry-silk-pillowcase",
+            "collection": "frontpage",
             "button_text": "Save 25% Now",
             "button_link": "shopify:\/\/products\/19-momme-silk-pillowcase"
           }
@@ -255,7 +255,7 @@
         "featured_collection_8W3D8L": {
           "type": "featured_collection",
           "settings": {
-            "collection": "premium-mulberry-silk-pillowcase",
+            "collection": "frontpage",
             "button_text": "Save 38% Now",
             "button_link": "shopify:\/\/products\/standard-pillowcase"
           }
@@ -360,7 +360,7 @@
         "description": "<p>12 iterations later, we've created the perfect pillowcase - from fit to functionality - and new products to supplement your beauty sleep.<\/p>",
         "show_description": false,
         "description_style": "subtitle",
-        "collection": "all-products",
+        "collection": "frontpage",
         "products_to_show": 10,
         "columns_desktop": 4,
         "full_width": true,
@@ -393,6 +393,7 @@
             "info_block_color": "#000000",
             "content_alignment": "left",
             "note": "*7 day growth comparison after sleeping on Snoozy and cotton for 3 nights without washing",
+            "image": "shopify:\/\/shop_images\/Snaptik.app_7333303970993032491_400x_64e2e1ee-d613-451f-b466-abb53506635d.gif",
             "caption": "",
             "title": "<h1><em>Repels Bacteria<br\/>Like An Invisible Forcefield<\/em><\/h1>",
             "content": "<p>Our pillowcases can have 1000x more bacteria than your toilet seat, shown to clog pores and trigger breakouts. Like an invisible forcefield, Snoozy's silver stops 99.7% of the nasties before they affect your skin.<\/p>",
@@ -490,6 +491,7 @@
         "column_a4izQ8": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/groundmate-lp-ella-white-author.jpg",
             "rating": "<strong>@sam<\/strong>",
             "title": "<em>\"Sleeping will and protecting my skin with Snoozy\"<\/em>",
             "text": "",
@@ -500,6 +502,7 @@
         "column_pjCGdy": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/groundmate-lp-ella-white-author.jpg",
             "rating": "<strong>@zoe<\/strong>",
             "title": "<em>\"Thank you to Snoozy for a good, worry-free night's sleep\"<\/em>",
             "text": "",
@@ -510,6 +513,7 @@
         "column_CBbKqE": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/groundmate-lp-ella-white-author.jpg",
             "rating": "<strong>@kezia<\/strong>",
             "title": "<em>\"Thank you, thank you, thank you!\"<\/em>",
             "text": "",

@@ -101,11 +101,11 @@
             "note": "",
             "image": "shopify:\/\/shop_images\/groundmate-lp-ella-white-author.jpg",
             "caption": "",
-            "title": "<h1><em>Snoozy x Kylie<\/em><\/h1>",
-            "content": "<p>Introducing our very first collab, we've partnered with superstar, Kylie Verzosa, known for her class and always feeling and looking the best. Spice up your bedroom with beautiful silk essentials, and experience true beauty sleep.<\/p>",
+            "title": "<h1><em>30 Minutes of Grounding<\/em><\/h1>",
+            "content": "<p>Here is a thermal image that shows inflammation on the body, <span style=\"text-decoration:underline\"><strong>with just 30 minutes of grounding<\/strong><\/span><\/p>",
             "author": "",
             "button_label": "Shop Now →",
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify:\/\/products\/groundmate-grounding-cable",
             "active_before_after": false,
             "before_text": "Before",
             "after_text": "After",
@@ -300,8 +300,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/sleeping.webp",
             "rating": "",
-            "title": "<em>Infused with silver<\/em>",
-            "text": "<p>Silver's been used for years as a natural, safe way to stop bacterial spread. <\/p>",
+            "title": "<em>Sleep Improvement<\/em>",
+            "text": "<p>When people slept grounded, their <em><strong>stress hormone levels dropped <\/strong><\/em>by <em><strong>4.5% to 7.8%<\/strong><\/em>, leading to better sleep quality<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -311,8 +311,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/dna.webp",
             "rating": "",
-            "title": "<em>Stops bad bacteria<\/em>",
-            "text": "<p>We're talking P. Acnes and Staph, shown to trigger acne and other skin concerns.<\/p>",
+            "title": "<em>Inflammation Reduction<\/em>",
+            "text": "<p>Grounding quickly <em><strong>reduced inflammation <\/strong><\/em>levels by <em><strong>13% to 43%<\/strong><\/em>, helping you feel less achy and more comfortable.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -322,8 +322,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/heart-attack.webp",
             "rating": "",
-            "title": "<em>Lab-tested<\/em>",
-            "text": "<p>Antibacterial for over two years, you can sleep easy knowing your silver's working.<\/p>",
+            "title": "<em>Heart Health Boost<\/em>",
+            "text": "<p>Grounding boosts heart health, <em><strong>increasing heart rate variability <\/strong><\/em>by <em><strong>10% to 20%<\/strong><\/em>, boosting resilience and vitality.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -361,7 +361,7 @@
       "settings": {
         "title": "<em>Shop our best sellers<\/em>",
         "heading_size": "h1",
-        "description": "<p>12 iterations later, we've created the perfect pillowcase - from fit to functionality - and new products to supplement your beauty sleep.<\/p>",
+        "description": "<p>Grounding, or earthing, involves connecting our bodies to the Earth's surface to exchange electrons. This process helps neutralize free radicals caused by electromagnetic radiation.<\/p>",
         "show_description": false,
         "description_style": "subtitle",
         "collection": "frontpage",
@@ -399,8 +399,8 @@
             "note": "*7 day growth comparison after sleeping on Snoozy and cotton for 3 nights without washing",
             "image": "shopify:\/\/shop_images\/Snaptik.app_7333303970993032491_400x_64e2e1ee-d613-451f-b466-abb53506635d.gif",
             "caption": "",
-            "title": "<h1><em>Repels Bacteria<br\/>Like An Invisible Forcefield<\/em><\/h1>",
-            "content": "<p>Our pillowcases can have 1000x more bacteria than your toilet seat, shown to clog pores and trigger breakouts. Like an invisible forcefield, Snoozy's silver stops 99.7% of the nasties before they affect your skin.<\/p>",
+            "title": "<h1><em>Natural Healing Made Easy<\/em><\/h1>",
+            "content": "<p>Get grounded while you sleep and bring Earth's powerful healing indoors today!<\/p>",
             "author": "",
             "button_label": "",
             "button_link": "",
@@ -470,7 +470,7 @@
         "heading_fgWAVd": {
           "type": "heading",
           "settings": {
-            "heading": "<i>Snoozy In The Wild<\/i>",
+            "heading": "Groundmate In The Wild",
             "heading_size": "h1"
           }
         }

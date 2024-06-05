@@ -342,12 +342,13 @@
             "title": "<h1>Repels Bacteria Like An Invisible Forcefield<\/h1>",
             "content": "<p>Our pillowcases can have 1000x more bacteria than your toilet seat, shown to clog pores and trigger breakouts. Like an invisible forcefield, Snoozy's silver stops 99.7% of the nasties before they affect your skin.<\/p>",
             "author": "",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "active_before_after": false,
             "before_text": "Before",
             "after_text": "After",
             "drag_initial_position": 50,
+            "video_poster": "shopify:\/\/shop_images\/groundmate-review-8.jpg",
             "show_benefits_on_desktop": false,
             "show_benefits_on_mobile": false,
             "show_benefits_block": false,
@@ -373,8 +374,115 @@
         "section_title": ""
       }
     },
+    "rich_text_g6Df9a": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aqr4NF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Snoozy Versus <br> Regular Pillowcases",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aqr4NF"
+      ],
+      "settings": {
+        "show_desktop": false,
+        "show_mobile": false,
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 64,
+        "padding_bottom": 4
+      }
+    },
+    "multicolumn_YGnxGM": {
+      "type": "multicolumn",
+      "settings": {
+        "image_banner": "shopify:\/\/shop_images\/groundmate-lp-4.jpg",
+        "show_shadow": false,
+        "disabled_fullwidth": false,
+        "show_desktop": false,
+        "show_mobile": false,
+        "is_regular_title": false,
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "section_faq_N84MLK": {
+      "type": "section-faq",
+      "blocks": {
+        "image_picker_JYyryX": {
+          "type": "image_picker",
+          "settings": {
+            "question_background": "#ffffff",
+            "faq_question": "What if Snoozy doesn't work for me?",
+            "faq_answer": "<p>If for any reason you feel that Snoozy isn't working for you or you're simply not vibing it, simply send us an email to hello@snoozy.com.ph and we'll fix you up with a full refund.<\/p>"
+          }
+        },
+        "image_picker_TVen9T": {
+          "type": "image_picker",
+          "settings": {
+            "question_background": "#f7f3eb",
+            "faq_question": "What if Snoozy doesn't work for me?",
+            "faq_answer": "<p>What if Snoozy doesn't work for me?<\/p>"
+          }
+        },
+        "image_picker_a6fBTz": {
+          "type": "image_picker",
+          "settings": {
+            "question_background": "#f7f3eb",
+            "faq_question": "What if Snoozy doesn't work for me?",
+            "faq_answer": "<p>What if Snoozy doesn't work for me?<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "image_picker_JYyryX",
+        "image_picker_TVen9T",
+        "image_picker_a6fBTz"
+      ],
+      "settings": {
+        "show_section": true,
+        "show_section_decor": true,
+        "section_background": "#f7f3eb",
+        "section_title": "Have a Question? We Have Answers",
+        "section_description": ""
+      }
+    },
     "loox-product-reviews-app-section": {
       "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_pCtAbQ": {
+          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_pCtAbQ"
+      ],
       "settings": {
         "include_margins": false
       }
@@ -404,6 +512,9 @@
     "rich_text_WaFrVr",
     "multicolumn_69gTz9",
     "section_image_with_text_JA3eNT",
+    "rich_text_g6Df9a",
+    "multicolumn_YGnxGM",
+    "section_faq_N84MLK",
     "loox-product-reviews-app-section",
     "related-products"
   ]

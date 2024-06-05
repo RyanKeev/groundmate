@@ -6,15 +6,15 @@
         "text_mmJb9V": {
           "type": "text",
           "settings": {
-            "text": "<strong>SILVER-INFUSED SILK PILLOWCASES<\/strong>",
+            "text": "<strong>GET YOURS TODAY<\/strong>",
             "text_style": "body"
           }
         },
         "heading_TQHkda": {
           "type": "heading",
           "settings": {
-            "heading": "<em>The Pillowcase That Fights<\/em>",
-            "name_string": "Dry Skin\nBlackheads\nAcne\nBreakouts",
+            "heading": "<em>Natural Healing Made Easy<em><\/em><\/em>",
+            "name_string": "",
             "heading_size": "h0"
           }
         },
@@ -99,10 +99,10 @@
             "info_block_color": "#000000",
             "content_alignment": "left",
             "note": "",
-            "image": "shopify:\/\/shop_images\/groundmate-lp-ella-white-author.jpg",
+            "image": "shopify:\/\/shop_images\/groundmate-review-1.jpg",
             "caption": "",
-            "title": "<h1><em>30 Minutes of Grounding<\/em><\/h1>",
-            "content": "<p>Here is a thermal image that shows inflammation on the body, <span style=\"text-decoration:underline\"><strong>with just 30 minutes of grounding<\/strong><\/span><\/p>",
+            "title": "<h1><em>What is Grounding?<\/em><\/h1>",
+            "content": "<p>Grounding, or earthing, involves connecting our bodies to the Earth's surface to exchange electrons. This process helps neutralize free radicals caused by electromagnetic radiation, reducing inflammation and promoting better health.<\/p>",
             "author": "",
             "button_label": "Shop Now →",
             "button_link": "shopify:\/\/products\/groundmate-grounding-cable",
@@ -131,82 +131,6 @@
         "section_background": "#fdf5ed",
         "section_decor_color": "#f7f3eb",
         "section_title": ""
-      }
-    },
-    "multicolumn_eVggbb": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_cT69xB": {
-          "type": "column",
-          "settings": {
-            "rating": "",
-            "title": "Best Pillowcase 2022",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_NfcFTe": {
-          "type": "column",
-          "settings": {
-            "rating": "",
-            "title": "Best Pillowcase 2022",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_XRWUCP": {
-          "type": "column",
-          "settings": {
-            "rating": "",
-            "title": "Best Pillowcase 2022",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_gJzTkh": {
-          "type": "column",
-          "settings": {
-            "rating": "",
-            "title": "Best Pillowcase 2022",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_cT69xB",
-        "column_NfcFTe",
-        "column_XRWUCP",
-        "column_gJzTkh"
-      ],
-      "disabled": true,
-      "custom_css": [
-
-      ],
-      "settings": {
-        "show_shadow": false,
-        "disabled_fullwidth": false,
-        "show_desktop": false,
-        "show_mobile": false,
-        "is_regular_title": false,
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-97e0205c-f84f-4e6a-926b-ee03c45956ad",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "rich_text_jqcn9d": {
@@ -282,16 +206,6 @@
         "padding_bottom": 52
       }
     },
-    "custom_liquid_mUpGHp": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<style>\n#shopify-section-template--22494886854961__multicolumn_eVggbb,.section+.section{\n margin-top: 0;\n}\n<\/style>",
-        "color_scheme": "scheme-3e67202a-86ca-4178-993a-f35dbb979c3c",
-        "padding_top": 0,
-        "padding_bottom": 32
-      }
-    },
     "multicolumn_r6bHAD": {
       "type": "multicolumn",
       "blocks": {
@@ -327,12 +241,24 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_Xfwneh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/back-pain.webp",
+            "rating": "",
+            "title": "<em>Relief from Chronic Pain<\/em>",
+            "text": "<p>An impressive 68% of customers reported experiencing a reduction in chronic joint and back pain with grounding.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_JpCjXp",
         "column_zKrzMT",
-        "column_ahxBa9"
+        "column_ahxBa9",
+        "column_Xfwneh"
       ],
       "settings": {
         "show_shadow": false,
@@ -344,7 +270,7 @@
         "heading_size": "h0",
         "image_width": "small",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
@@ -361,7 +287,7 @@
       "settings": {
         "title": "<em>Shop our best sellers<\/em>",
         "heading_size": "h1",
-        "description": "<p>Grounding, or earthing, involves connecting our bodies to the Earth's surface to exchange electrons. This process helps neutralize free radicals caused by electromagnetic radiation.<\/p>",
+        "description": "<p>Get grounded while you sleep and bring Earth's powerful healing indoors today!<\/p>",
         "show_description": false,
         "description_style": "subtitle",
         "collection": "frontpage",
@@ -399,8 +325,8 @@
             "note": "*7 day growth comparison after sleeping on Snoozy and cotton for 3 nights without washing",
             "image": "shopify:\/\/shop_images\/Snaptik.app_7333303970993032491_400x_64e2e1ee-d613-451f-b466-abb53506635d.gif",
             "caption": "",
-            "title": "<h1><em>Natural Healing Made Easy<\/em><\/h1>",
-            "content": "<p>Get grounded while you sleep and bring Earth's powerful healing indoors today!<\/p>",
+            "title": "<h1><em>30 Minutes of Grounding<\/em><\/h1>",
+            "content": "<p>Here is a thermal image that shows inflammation on the body, with just 30 minutes of grounding<\/p>",
             "author": "",
             "button_label": "",
             "button_link": "",
@@ -783,10 +709,8 @@
     "image_banner_WqKFzc",
     "wavy_recommendation_Qyb9wz",
     "section_image_with_text_kyhAzY",
-    "multicolumn_eVggbb",
     "rich_text_jqcn9d",
     "collection_list_AJMB9L",
-    "custom_liquid_mUpGHp",
     "multicolumn_r6bHAD",
     "featured_collection_L6dPDQ",
     "section_image_with_text_4cXHF9",

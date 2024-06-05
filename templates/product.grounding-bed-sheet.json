@@ -425,6 +425,79 @@
         "padding_bottom": 36
       }
     },
+    "customizable_table_TCfEVf": {
+      "type": "customizable-table",
+      "blocks": {
+        "rows_DjL4ex": {
+          "type": "rows",
+          "settings": {
+            "col1": "Quality",
+            "col2": " Designed with highly conductive materials",
+            "col3": "Made up of cheap materials with low conductivity"
+          }
+        },
+        "rows_3piYze": {
+          "type": "rows",
+          "settings": {
+            "col1": "Material",
+            "col2": "10% Silver Coils + 90% Organic Cotton",
+            "col3": "5% Silver Coils + 95% Cotton"
+          }
+        },
+        "rows_bLxNH6": {
+          "type": "rows",
+          "settings": {
+            "col1": "Size",
+            "col2": "Single, Double, King, Queen, Cali",
+            "col3": "One size fits all"
+          }
+        },
+        "rows_WEbedj": {
+          "type": "rows",
+          "settings": {
+            "col1": "Cleaning",
+            "col2": "Easy to clean",
+            "col3": "Hard to clean and stains easy"
+          }
+        },
+        "rows_pFGerY": {
+          "type": "rows",
+          "settings": {
+            "col1": "Packaging",
+            "col2": "Earth friendly recyclable packaging",
+            "col3": "Wasteful plastic packaging"
+          }
+        },
+        "rows_NyyBtF": {
+          "type": "rows",
+          "settings": {
+            "col1": "Money back guarantee",
+            "col2": "60 days money back guarantee",
+            "col3": "30 days money back guarantee"
+          }
+        }
+      },
+      "block_order": [
+        "rows_DjL4ex",
+        "rows_3piYze",
+        "rows_bLxNH6",
+        "rows_WEbedj",
+        "rows_pFGerY",
+        "rows_NyyBtF"
+      ],
+      "settings": {
+        "th1": "",
+        "th2": "GroundMate",
+        "th3": "Others",
+        "color_th_even": "#88ab8e",
+        "color_th_odd": "#e2e2d1",
+        "color_th_text": "#000000",
+        "color_even": "#afc8ae",
+        "color_even_text": "#000000",
+        "color_odd": "#ffffff",
+        "color_odd_text": "#000000"
+      }
+    },
     "section_faq_N84MLK": {
       "type": "section-faq",
       "blocks": {
@@ -517,6 +590,7 @@
     "section_image_with_text_JA3eNT",
     "rich_text_g6Df9a",
     "multicolumn_YGnxGM",
+    "customizable_table_TCfEVf",
     "section_faq_N84MLK",
     "loox-product-reviews-app-section",
     "related-products"

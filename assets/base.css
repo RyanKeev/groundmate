@@ -4238,9 +4238,9 @@ header.header .menu-label{
 
 .product-form__buttons .product-form__submit{
   transition: all .3s ease-in-out;
-  border-color: #FC95CF;
-  background: #FC95CF;
-  color: #000000;
+  border-color: #73a05c;
+  background: #73a05c;
+  color: #FFFFFF;
   min-height: 46px;
   padding: 18px 40px;
   font-size: 1.8rem;
@@ -4339,7 +4339,7 @@ header.header .menu-label{
 
   .product-form__buttons .product-form__submit:hover{
     /* background: #ffffff; */
-    color: #000000;
+    color: #FFFFFF;
   }
 
   .product-custom-liquid > * {
@@ -5019,7 +5019,8 @@ product-variant-swatches input[type=radio]:checked+label.quantity-swatch{
   }
 
   .section-image-content .benefits-layout{
-    margin: 10px -10px 0;
+    /* margin: 10px -10px 0; */
+    margin: 10px auto 0 auto;
   }
 
   /* .section-image-content .benefits-item{
@@ -6596,7 +6597,7 @@ product-variant-swatches input[type=radio]:checked+label.quantity-swatch{
 }
 
 .icon-color {
-  color : #fc95cf !important;
+  color : #73a05c !important;
   font-family: 'FontAwesome' !important;
 }
 

@@ -105,27 +105,27 @@
         "collapsible_tab_g6Xf3k": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Material Specs",
-            "icon": "none",
-            "content": "<p><strong>Fabric: <\/strong>100% 19-momme 6A-grade Mulberry Silk  <br\/><strong>Closure: <\/strong>Hidden zipper<br\/><strong>Treatment: <\/strong>Antibacterial silver ions<br\/><strong>Ethically Certified: <\/strong>Yes (Oeko-Tex®)<\/p><p><strong>Animal Tested:<\/strong> No<br\/><strong>Artificial Chemicals:<\/strong> None<\/p>",
+            "heading": "Sizing",
+            "icon": "eye",
+            "content": "<p><span style=\"text-decoration:underline\"><strong>Important: US, UK and EU mattress sizes are different.<\/strong><\/span><\/p><p>Please check these sizes before you order 💚<\/p><p><strong>Single\/Twin: 190x99cm or 75x39inch<\/strong><\/p><p><strong>Double\/Full: 203x137cm or 80x54inch<\/strong><\/p><p><strong>Queen: 200x153cm or 79x63inch<\/strong><\/p><p><strong>King: 203x198 or 80x78inch<\/strong><\/p><p><strong>Cali King: 213x183cm or 84\/72inch<\/strong><\/p>",
             "page": ""
           }
         },
         "collapsible_tab_rfcfdx": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Care Instructions",
-            "icon": "none",
-            "content": "<p>•   Machine delicate wash with our washing bag or hand wash (cold setting)<br\/>•   Use pH neutral detergent<br\/>•   Do not bleach, tumble dry or dry clean (no trichloroethylene)<br\/>•   Iron low heat<br\/><\/p><p>Silver Ion treatment keeps your Snoozy fresher for longer, meaning you only need to wash it every 10-14 days (3x less frequent than cotton!).<\/p>",
+            "heading": "What's Included",
+            "icon": "eye",
+            "content": "<p>1 X 10% Silver + 90% Cotton Fitted Bed Sheet<\/p><p>1 X Earthing Cord<\/p><p>1 X Earthing Socket<\/p><p>1 X User Manual<\/p>",
             "page": ""
           }
         },
         "collapsible_tab_AYXz8z": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shipping",
-            "icon": "none",
-            "content": "<p>2-4 days delivery time. We'll share your tracking number right after shipping.<\/p>",
+            "heading": "Use & Care",
+            "icon": "eye",
+            "content": "<p><strong>Usage Instructions:<\/strong><\/p><ol><li>Securely place the fitted sheet on your bed or pillow.<\/li><li>Connect the ground cord to the metal snap on the sheet.<\/li><li>Plug it into the grounded portion of the outlet.<\/li><li>Indulge in a restful night's sleep.<\/li><\/ol><p>  <\/p><p><strong>Care Instructions:<\/strong><\/p><ul><li>Machine wash in cold or warm water.<\/li><li>Use ordinary detergent or non-phosphorus detergent.<\/li><li>Avoid bleach or hydrogen peroxide.<\/li><li>Preferably hand wash by gently scrubbing and wringing out. Alternatively, use the gentle cycle on the washing machine.<\/li><li>Avoid exposure to direct sunlight.<\/li><li>Hang to dry in a well-ventilated area or tumble dry on a cool setting.<\/li><li>Do not iron.<\/li><li>Frequent washing is unnecessary as the silver fiber possesses antibacterial properties.<\/li><\/ul>",
             "page": ""
           }
         },
@@ -133,8 +133,8 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "150 Night Money Back Guarantee",
-            "icon": "none",
-            "content": "<p>We know some things take time, that's why we offer a 150 night trial. If for any reason you're not loving your Snoozy pillowcase after 150 days, send it back for a full refund + return postage.<br\/><\/p><p>Note: This is not applicable for colour exchanges.<\/p>",
+            "icon": "eye",
+            "content": "<p>We know some things take time, that's why we offer a 150 night trial. If for any reason you're not loving your groundmate purchase after 150 days, send it back for a full refund + return postage.<br\/><\/p><p>Note: This is not applicable for colour exchanges.<\/p>",
             "page": ""
           }
         }

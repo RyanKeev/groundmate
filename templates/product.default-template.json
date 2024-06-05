@@ -1,149 +1,65 @@
 {
   "sections": {
-    "0cd25557-8cef-42a6-991a-1a57bf82fee5": {
-      "type": "product-title-intro",
-      "settings": {
-        "show_section": true,
-        "section_background": "#ffffff",
-        "title_intro": "Relieve neck pain, prevent headaches and sleep better!"
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
           }
         },
-        "price": {
+        "price_dhCHJj": {
           "type": "price",
-          "disabled": true,
           "settings": {
+            "discount_ten_percent": false,
+            "discount_fifteen_percent": false
           }
         },
-        "loox-rating": {
-          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-rating\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "contentSize": 16,
-            "pattern": "",
-            "hideText": false,
-            "alignment": "",
-            "textColor": "",
-            "starColor": "",
-            "showAllReviews": false,
-            "looxOpenFloatingWidget": false,
-            "emptyRatingWidget": false
-          }
-        },
-        "2fad7fee-1e4e-4bbd-a33a-b6131ab0b772": {
-          "type": "product-information",
-          "settings": {
-            "show_product_information": false,
-            "product_icon_list_one": "shopify:\/\/shop_images\/beauty-usp-transparent.svg",
-            "product_text_list_one": "Real Results in only 4 Nights!",
-            "product_text_list_two": "",
-            "product_icon_list_third": "shopify:\/\/shop_images\/hypoallergenic-usp-transparent.svg",
-            "product_text_list_third": "Hypoallergenic and gentle",
-            "product_icon_list_fourth": "shopify:\/\/shop_images\/quality-usp-transparent.svg",
-            "product_text_list_fourth": "100% 22-Momme 6A Grade Mulberry Silk",
-            "product_text_list_fifth": ""
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "a019fdc3-26d6-4ade-90fd-e1c7c0cc5707": {
-          "type": "variant_swatches",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "fdf08dd9-0177-4af9-b553-89e9fec6efed": {
-          "type": "inventory",
-          "disabled": true,
-          "settings": {
-            "text_style": "body",
-            "inventory_threshold": 10,
-            "show_inventory_quantity": false
-          }
-        },
-        "3165eaa2-e3b6-43f0-8320-e0a63db6107e": {
-          "type": "text",
-          "settings": {
-            "text": "Join the waitlist for The Perfect Pillow. The Perfect Pillow™ features shredded memory foam to contour to your head and neck, thereby relieving pressure and preventing morning headaches, that can result from sleeping on a too-firm or too-soft pillow.",
-            "text_style": "body"
-          }
-        },
-        "6d04ee5d-2c4c-4aa3-97c2-5b88caaf73a1": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>The waitlist is growing - reserve your spot for The Perfect Pillow™.<\/strong>",
-            "text_style": "subtitle"
-          }
-        },
-        "87ef3c91-f044-4cda-b893-791e1c95f63f": {
-          "type": "user_subscribers",
-          "settings": {
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false,
-            "hide_compare_at_price": true
-          }
-        },
-        "description": {
+        "description_e3N9TV": {
           "type": "description",
           "settings": {
           }
         },
-        "share": {
-          "type": "share",
-          "disabled": true,
+        "product_showcase_links_dhFwx8": {
+          "type": "product_showcase_links",
           "settings": {
-            "share_label": "Share"
+            "product_showcase_title": "",
+            "product_showcase_inline_title": "Type",
+            "product_showcase_1_link": "",
+            "product_is_active_1": true,
+            "product_showcase_1_link_title": "Product 1",
+            "badge_title_1": "",
+            "product_showcase_2_link": "",
+            "product_is_active_2": false,
+            "product_showcase_2_link_title": "Product 2",
+            "badge_title_2": ""
+          }
+        },
+        "variant_swatches_9xB44N": {
+          "type": "variant_swatches",
+          "settings": {
+            "variant_swatches_title": ""
+          }
+        },
+        "quantity_bundle_selector_7h3Dqt": {
+          "type": "quantity_bundle_selector",
+          "settings": {
+            "buy1_before_text": "1 sheet",
+            "buy2_before_text": "2 sheets",
+            "buy4_before_text": "4 sheets"
           }
         }
       },
       "block_order": [
-        "vendor",
         "title",
-        "price",
-        "loox-rating",
-        "2fad7fee-1e4e-4bbd-a33a-b6131ab0b772",
-        "variant_picker",
-        "a019fdc3-26d6-4ade-90fd-e1c7c0cc5707",
-        "quantity_selector",
-        "fdf08dd9-0177-4af9-b553-89e9fec6efed",
-        "3165eaa2-e3b6-43f0-8320-e0a63db6107e",
-        "6d04ee5d-2c4c-4aa3-97c2-5b88caaf73a1",
-        "87ef3c91-f044-4cda-b893-791e1c95f63f",
-        "buy_buttons",
-        "description",
-        "share"
+        "price_dhCHJj",
+        "description_e3N9TV",
+        "product_showcase_links_dhFwx8",
+        "variant_swatches_9xB44N",
+        "quantity_bundle_selector_7h3Dqt"
       ],
       "settings": {
+        "use_product_template_style_2": false,
         "enable_sticky_info": true,
         "media_size": "medium",
         "constrain_to_viewport": true,
@@ -156,15 +72,6 @@
         "enable_video_looping": false,
         "padding_top": 24,
         "padding_bottom": 24
-      }
-    },
-    "cda35bdf-b8c2-4f38-b097-6db9e0397243": {
-      "type": "section-text-content",
-      "settings": {
-        "show_section": true,
-        "section_background": "#ffffff",
-        "section_title": "<p><em>COMING SOON: <\/em>A perfect pillow - just for you<\/p>",
-        "section_content": "<p>Your pillow has a huge influence on the position of your neck, and is a common reason why your neck pain is worse after lying down. If your pillow is too flat, soft, high or stiff, your neck is positioned in a way that stresses the neck muscles.<\/p><p>We designed The Perfect Pillow™ to offer healthy support, maintain spinal alignment and ease neck pains. The Perfect Pillow™ also features shredded memory foam to contour to your head and neck, thereby relieving pressure and preventing morning headaches, that can result from sleeping on a too-firm or too-soft pillow.<\/p><p>We all sleep differently, and your pillow needs to fit your sleeping position to provide optimal support. That's why we set out to develop one pillow that can be adjusted to suit all sleeping positions.<\/p><p>After endless testing, we've designed the perfect pillow: one that gives everyone the right support, thanks to its adjustable functionality. A pillow that ensures you wake up rested and pain-free after a good night's sleep.<\/p><p><strong>Coming to the Philippines in November, 2023.<\/strong><\/p>"
       }
     },
     "loox-product-reviews-app-section": {
@@ -194,9 +101,7 @@
     }
   },
   "order": [
-    "0cd25557-8cef-42a6-991a-1a57bf82fee5",
     "main",
-    "cda35bdf-b8c2-4f38-b097-6db9e0397243",
     "loox-product-reviews-app-section",
     "related-products"
   ]

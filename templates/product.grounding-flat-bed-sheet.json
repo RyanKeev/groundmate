@@ -1,0 +1,505 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price_dhCHJj": {
+          "type": "price",
+          "settings": {
+            "discount_ten_percent": false,
+            "discount_fifteen_percent": false
+          }
+        },
+        "description_e3N9TV": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "product_showcase_links_dhFwx8": {
+          "type": "product_showcase_links",
+          "settings": {
+            "product_showcase_title": "",
+            "product_showcase_inline_title": "Type",
+            "product_showcase_1_link": "",
+            "product_is_active_1": true,
+            "product_showcase_1_link_title": "Product 1",
+            "badge_title_1": "",
+            "product_showcase_2_link": "",
+            "product_is_active_2": false,
+            "product_showcase_2_link_title": "Product 2",
+            "badge_title_2": ""
+          }
+        },
+        "variant_swatches_9xB44N": {
+          "type": "variant_swatches",
+          "settings": {
+            "variant_swatches_title": ""
+          }
+        },
+        "quantity_bundle_selector_7h3Dqt": {
+          "type": "quantity_bundle_selector",
+          "settings": {
+            "buy1_before_text": "1 sheet",
+            "buy2_before_text": "2 sheets",
+            "buy4_before_text": "4 sheets"
+          }
+        },
+        "buy_buttons_CwEFcj": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false,
+            "hide_compare_at_price": false,
+            "pre_order_text": "",
+            "order_description": "Ordered before 10pm = Packed today",
+            "icon_pay_1th": "",
+            "icon_pay_2th": "",
+            "icon_pay_3th": "",
+            "icon_pay_4th": "",
+            "icon_pay_5th": "",
+            "icon_pay_6th": ""
+          }
+        },
+        "icon_with_text_tHkhUF": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "arg_cart",
+            "heading_1": "Free shipping <br>\non all orders",
+            "icon_2": "none",
+            "image_2": "shopify:\/\/shop_images\/money-back-guarantee-black.png",
+            "heading_2": "150 nights <br>\nMoney Back Guarantee",
+            "icon_3": "arg_map-pin",
+            "heading_3": "We ship from <br>\nLos Angeles"
+          }
+        },
+        "description_capture_wWBpXH": {
+          "type": "description-capture",
+          "settings": {
+            "paragraph_1_title": "Why Snoozy's special?",
+            "paragraph_1_content": "Introducing our new 19 Momme Silk Pillowcase – the go-to skin essential designed for your comfort and budget. Treated with natural silver, scientifically shown to eliminate 99.7% of bacteria linked to acne & breakouts. This pillowcase offers the skin benefits of silk at an accessible price point.",
+            "paragraph_2_title": "How can Snoozy help you?",
+            "paragraph_2_content": "Safe for all skin types, ages, and chemical-free. In 30 days, Snoozy works to prevent and improve:",
+            "paragraph_3_title": "You'll also love that:",
+            "paragraph_3_content": "Our 19-momme pillowcase is designed with a single-sided finish, focusing the premium silk where it matters most. Treat yourself to the elegance of silk without compromising on quality or price. Snoozy's sustainable, and 4.5x more breathable & cooling than cotton (goodbye midnight sweats).",
+            "list_1_title": "<strong>Skin concerns<\/strong>",
+            "list_1_content": "Acne & breakouts,\nClogged pores,\nDry skin & redness,\nFine lines & wrinkles",
+            "list_2_title": "<strong>Hair concerns<\/strong>",
+            "list_2_content": "Split ends,\nTangles & knots,\nFrizziness,\nBreakages"
+          }
+        },
+        "jumbotron_jcdCDF": {
+          "type": "jumbotron",
+          "settings": {
+            "jumbotron_heading": "150 Night Risk Free Trial",
+            "jumbotron_content": "If for any reason you're not loving your Snoozy, send it back within 150 days from purchase for a full refund.",
+            "jumbotron_image": "shopify:\/\/shop_images\/money-back-guarantee-black.png"
+          }
+        },
+        "collapsible_tab_g6Xf3k": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Material Specs",
+            "icon": "none",
+            "content": "<p><strong>Fabric: <\/strong>100% 19-momme 6A-grade Mulberry Silk  <br\/><strong>Closure: <\/strong>Hidden zipper<br\/><strong>Treatment: <\/strong>Antibacterial silver ions<br\/><strong>Ethically Certified: <\/strong>Yes (Oeko-Tex®)<\/p><p><strong>Animal Tested:<\/strong> No<br\/><strong>Artificial Chemicals:<\/strong> None<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_rfcfdx": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Care Instructions",
+            "icon": "none",
+            "content": "<p>•   Machine delicate wash with our washing bag or hand wash (cold setting)<br\/>•   Use pH neutral detergent<br\/>•   Do not bleach, tumble dry or dry clean (no trichloroethylene)<br\/>•   Iron low heat<br\/><\/p><p>Silver Ion treatment keeps your Snoozy fresher for longer, meaning you only need to wash it every 10-14 days (3x less frequent than cotton!).<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_AYXz8z": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping",
+            "icon": "none",
+            "content": "<p>2-4 days delivery time. We'll share your tracking number right after shipping.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_jG6QpT": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "150 Night Money Back Guarantee",
+            "icon": "none",
+            "content": "<p>We know some things take time, that's why we offer a 150 night trial. If for any reason you're not loving your Snoozy pillowcase after 150 days, send it back for a full refund + return postage.<br\/><\/p><p>Note: This is not applicable for colour exchanges.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price_dhCHJj",
+        "description_e3N9TV",
+        "product_showcase_links_dhFwx8",
+        "variant_swatches_9xB44N",
+        "quantity_bundle_selector_7h3Dqt",
+        "buy_buttons_CwEFcj",
+        "icon_with_text_tHkhUF",
+        "description_capture_wWBpXH",
+        "jumbotron_jcdCDF",
+        "collapsible_tab_g6Xf3k",
+        "collapsible_tab_rfcfdx",
+        "collapsible_tab_AYXz8z",
+        "collapsible_tab_jG6QpT"
+      ],
+      "settings": {
+        "use_product_template_style_2": true,
+        "enable_sticky_info": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "show",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "rich_text_WaFrVr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wTEAVE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Real Results <br> in Just 30 Days",
+            "heading_size": "h1"
+          }
+        },
+        "text_8k9BVT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>See why 10k+ choose Snoozy<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wTEAVE",
+        "text_8k9BVT"
+      ],
+      "settings": {
+        "show_desktop": false,
+        "show_mobile": false,
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 24
+      }
+    },
+    "multicolumn_69gTz9": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_7ePpjn": {
+          "type": "column",
+          "settings": {
+            "rating": "Rating",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rcqVJJ": {
+          "type": "column",
+          "settings": {
+            "rating": "Rating",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HDTtdi": {
+          "type": "column",
+          "settings": {
+            "rating": "Rating",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_7ePpjn",
+        "column_rcqVJJ",
+        "column_HDTtdi"
+      ],
+      "settings": {
+        "show_shadow": true,
+        "disabled_fullwidth": false,
+        "show_desktop": false,
+        "show_mobile": false,
+        "is_regular_title": false,
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "section_image_with_text_JA3eNT": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "image_picker_QimVer": {
+          "type": "image_picker",
+          "settings": {
+            "half_width": true,
+            "image_first": false,
+            "info_block_background_color": "#fbf5f4",
+            "info_block_color": "#000000",
+            "content_alignment": "center",
+            "note": "",
+            "image": "shopify:\/\/shop_images\/groundmate-lp-4.jpg",
+            "caption": "",
+            "title": "<h1>The Science Explained<\/h1>",
+            "content": "<p>Antibacterial silver has been used for years as a safe way to stop smell and bacterial spread. Silver ions bind to bacteria to prevent them from reproducing.<\/p>",
+            "author": "",
+            "button_label": "",
+            "button_link": "",
+            "active_before_after": false,
+            "before_text": "Before",
+            "after_text": "After",
+            "drag_initial_position": 50,
+            "show_benefits_on_desktop": false,
+            "show_benefits_on_mobile": false,
+            "show_benefits_block": true,
+            "benefits_background": "#FFFFFF",
+            "benefits_image_one": "shopify:\/\/shop_images\/money-back-guarantee-black.png",
+            "benefits_title_one": "Bacteria naturally eliminated",
+            "benefits_image_two": "shopify:\/\/shop_images\/money-back-guarantee-black.png",
+            "benefits_title_two": "Fewer clogged pores and breakouts",
+            "benefits_title_third": "",
+            "benefits_title_fourth": ""
+          }
+        },
+        "image_picker_dweDUw": {
+          "type": "image_picker",
+          "settings": {
+            "half_width": true,
+            "image_first": true,
+            "info_block_background_color": "#fbf5f4",
+            "info_block_color": "#000000",
+            "content_alignment": "center",
+            "note": "",
+            "image": "shopify:\/\/shop_images\/groundmate-lp-5.jpg",
+            "caption": "",
+            "title": "<h1>Visible results in 4 nights<\/h1>",
+            "content": "<p><strong>Designed by dermatologists to recover your skin <\/strong>overnight and protect it from irritation- and acne-causing bacteria. This pillowcase with silver ions will give you <strong>better sleep and real results.<\/strong><\/p>",
+            "author": "",
+            "button_label": "",
+            "button_link": "",
+            "active_before_after": false,
+            "before_text": "Before",
+            "after_text": "After",
+            "drag_initial_position": 50,
+            "show_benefits_on_desktop": false,
+            "show_benefits_on_mobile": false,
+            "show_benefits_block": true,
+            "general_benefit_image": "shopify:\/\/shop_images\/groundmate-lp-testimonials.png",
+            "benefits_background": "#FFFFFF",
+            "benefits_title_one": "",
+            "benefits_title_two": "",
+            "benefits_title_third": "",
+            "benefits_title_fourth": ""
+          }
+        },
+        "image_picker_DEqHhU": {
+          "type": "image_picker",
+          "settings": {
+            "half_width": true,
+            "image_first": false,
+            "info_block_background_color": "#fbf5f4",
+            "info_block_color": "#000000",
+            "content_alignment": "center",
+            "note": "",
+            "caption": "",
+            "title": "<h1>Repels Bacteria Like An Invisible Forcefield<\/h1>",
+            "content": "<p>Our pillowcases can have 1000x more bacteria than your toilet seat, shown to clog pores and trigger breakouts. Like an invisible forcefield, Snoozy's silver stops 99.7% of the nasties before they affect your skin.<\/p>",
+            "author": "",
+            "button_label": "",
+            "button_link": "",
+            "active_before_after": false,
+            "before_text": "Before",
+            "after_text": "After",
+            "drag_initial_position": 50,
+            "video_poster": "shopify:\/\/shop_images\/groundmate-review-8.jpg",
+            "show_benefits_on_desktop": false,
+            "show_benefits_on_mobile": false,
+            "show_benefits_block": false,
+            "benefits_background": "#FFFFFF",
+            "benefits_title_one": "",
+            "benefits_title_two": "",
+            "benefits_title_third": "",
+            "benefits_title_fourth": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_picker_QimVer",
+        "image_picker_dweDUw",
+        "image_picker_DEqHhU"
+      ],
+      "settings": {
+        "show_section": true,
+        "use_style_2_benefits_icon": true,
+        "show_section_decor": true,
+        "section_background": "#f7f3eb",
+        "section_decor_color": "#f7f3eb",
+        "section_title": ""
+      }
+    },
+    "rich_text_g6Df9a": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aqr4NF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Snoozy Versus <br> Regular Pillowcases",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aqr4NF"
+      ],
+      "settings": {
+        "show_desktop": false,
+        "show_mobile": false,
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 64,
+        "padding_bottom": 4
+      }
+    },
+    "multicolumn_YGnxGM": {
+      "type": "multicolumn",
+      "settings": {
+        "image_banner": "shopify:\/\/shop_images\/groundmate-lp-4.jpg",
+        "show_shadow": false,
+        "disabled_fullwidth": false,
+        "show_desktop": false,
+        "show_mobile": false,
+        "is_regular_title": false,
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "section_faq_N84MLK": {
+      "type": "section-faq",
+      "blocks": {
+        "image_picker_JYyryX": {
+          "type": "image_picker",
+          "settings": {
+            "question_background": "#ffffff",
+            "faq_question": "What if Snoozy doesn't work for me?",
+            "faq_answer": "<p>If for any reason you feel that Snoozy isn't working for you or you're simply not vibing it, simply send us an email to hello@snoozy.com.ph and we'll fix you up with a full refund.<\/p>"
+          }
+        },
+        "image_picker_TVen9T": {
+          "type": "image_picker",
+          "settings": {
+            "question_background": "#f7f3eb",
+            "faq_question": "What if Snoozy doesn't work for me?",
+            "faq_answer": "<p>What if Snoozy doesn't work for me?<\/p>"
+          }
+        },
+        "image_picker_a6fBTz": {
+          "type": "image_picker",
+          "settings": {
+            "question_background": "#f7f3eb",
+            "faq_question": "What if Snoozy doesn't work for me?",
+            "faq_answer": "<p>What if Snoozy doesn't work for me?<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "image_picker_JYyryX",
+        "image_picker_TVen9T",
+        "image_picker_a6fBTz"
+      ],
+      "settings": {
+        "show_section": true,
+        "show_section_decor": true,
+        "section_background": "#f7f3eb",
+        "section_title": "Have a Question? We Have Answers",
+        "section_description": ""
+      }
+    },
+    "loox-product-reviews-app-section": {
+      "type": "apps",
+      "settings": {
+        "include_margins": false
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 68
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_WaFrVr",
+    "multicolumn_69gTz9",
+    "section_image_with_text_JA3eNT",
+    "rich_text_g6Df9a",
+    "multicolumn_YGnxGM",
+    "section_faq_N84MLK",
+    "loox-product-reviews-app-section",
+    "related-products"
+  ]
+}

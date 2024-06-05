@@ -402,6 +402,7 @@
     },
     "multicolumn_YGnxGM": {
       "type": "multicolumn",
+      "disabled": true,
       "settings": {
         "image_banner": "shopify:\/\/shop_images\/Comparison.png",
         "show_shadow": false,

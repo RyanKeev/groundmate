@@ -1101,14 +1101,14 @@ class VariantSelects extends HTMLElement {
                 price.classList.remove('visibility-hidden');
 
                 const oneQuantityValue = parseFloat(document.querySelector('.one-quantity').textContent.trim().replace(/[^\d.]/g, ''));
-            
+                
                 const prOneQuantity = document.querySelector('.pr-one-quantity');
                 const prTwoLessFourQuantity = document.querySelector('.pr-two-less-four-quantity');
                 const prFourOrMoreQuantity = document.querySelector('.pr-four-or-more-quantity');
                 if (prOneQuantity && prTwoLessFourQuantity && prFourOrMoreQuantity) {
-                    prOneQuantity.textContent = currencySymbol + oneQuantityValue.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
-                    prTwoLessFourQuantity.textContent = currencySymbol + Math.round(oneQuantityValue * 0.90).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
-                    prFourOrMoreQuantity.textContent = currencySymbol + Math.round(oneQuantityValue * 0.75).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
+                    prOneQuantity.textContent = currencySymbol + oneQuantityValue.replace(/\d(?=(\d{3})+\.)/g, '$&,');
+                    prTwoLessFourQuantity.textContent = currencySymbol + Math.round(oneQuantityValue * 0.90).replace(/\d(?=(\d{3})+\.)/g, '$&,');
+                    prFourOrMoreQuantity.textContent = currencySymbol + Math.round(oneQuantityValue * 0.75).replace(/\d(?=(\d{3})+\.)/g, '$&,');
                 }
             }
 
@@ -1201,7 +1201,7 @@ class ProductVariantSwatches extends VariantRadios {
   constructor() {
     super();
 
-    this.COLOR_TYPE = 'color';
+    this.COLOR_TYPE = ['plug','color','size'];
     this.productForm = null;
     this.optionsMap = null;
 
@@ -1245,20 +1245,26 @@ class ProductVariantSwatches extends VariantRadios {
   }
 
   updateColorName() {
-    if (!this.optionsMap || !(this.COLOR_TYPE in this.optionsMap)) {
+    if (!this.optionsMap) {
       return;
     }
-
-    const label = this.querySelector('[data-option-handle="' + this.COLOR_TYPE + '"]');
-    if (!label) {
-      return;
-    }
-
-    const labelValue = label.querySelector('.swatch-option__label-value');
-    if (labelValue) {
-      labelValue.classList.remove('visibility-hidden');
-      labelValue.textContent = '- ' + this.optionsMap[this.COLOR_TYPE].value;
-    }
+  
+    this.COLOR_TYPE.forEach(optionType => {
+      if (!(optionType in this.optionsMap)) {
+        return;
+      }
+  
+      const label = this.querySelector('[data-option-handle="' + optionType + '"]');
+      if (!label) {
+        return;
+      }
+  
+      const labelValue = label.querySelector('.swatch-option__label-value');
+      if (labelValue) {
+        labelValue.classList.remove('visibility-hidden');
+        labelValue.textContent = '- ' + this.optionsMap[optionType].value;
+      }
+    });
   }
 
   updateSizeLabel() {

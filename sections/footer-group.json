@@ -17,11 +17,12 @@
           "type": "link_list",
           "settings": {
             "heading": "<strong>Shop<\/strong>",
-            "menu": ""
+            "menu": "shop"
           }
         },
         "bf38cdce-d953-40eb-bd68-5784f6a94beb": {
           "type": "link_list",
+          "disabled": true,
           "settings": {
             "heading": "Explore",
             "menu": ""

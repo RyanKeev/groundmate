@@ -771,6 +771,28 @@
                           }
                         }
                       </style>
+                                           
+                    <input class="quantity__input" type="hidden" name="quantity" id="Quantity-{{ section.id }}"
+                        data-cart-quantity="{{ cart_qty }}"
+                        data-min="{{ product.selected_or_first_available_variant.quantity_rule.min }}"
+                        min="{{ product.selected_or_first_available_variant.quantity_rule.min }}"
+                          {% if product.selected_or_first_available_variant.quantity_rule.max != null %}
+                            data-max="{{ product.selected_or_first_available_variant.quantity_rule.max }}"
+                            max="{{ product.selected_or_first_available_variant.quantity_rule.max }}"
+                          {% endif %}
+                        step="{{ product.selected_or_first_available_variant.quantity_rule.increment }}"
+                        value="{{ product.selected_or_first_available_variant.quantity_rule.min }}"
+                        form="{{ product_form_id }}"
+                    />
+                    <div id="variant-data" 
+                      data-price="{{ price }}"
+                      data-discount-10="{{ discount_10 }}"
+                      data-discount-25="{{ discount_25 }}"
+                      data-money-price="{{ money_price }}"
+                      data-discount-10-money="{{ discount_10_money }}"
+                      data-discount-25-money="{{ discount_25_money }}"
+                    >
+                    </div>
                      <div id="Quantity-Form-{{ section.id }} bundle_swatches_custom" class="product-form__input product-form__quantity{% if settings.inputs_shadow_vertical_offset != 0 and settings.inputs_shadow_vertical_offset < 0 %} product-form__quantity-top{% endif %} bundle-swatches"
                      {{ block.shopify_attributes }}
                      style="display: flex !important;gap: 16px !important;">
@@ -778,46 +800,24 @@
                      {% # theme-check-disable %}
                      {%- assign cart_qty = cart | item_count_for_variant: product.selected_or_first_available_variant.id -%}
                      {% # theme-check-enable %}
-                     
-                       <input class="quantity__input" type="hidden" name="quantity" id="Quantity-{{ section.id }}"
-                                    data-cart-quantity="{{ cart_qty }}"
-                                    data-min="{{ product.selected_or_first_available_variant.quantity_rule.min }}"
-                                    min="{{ product.selected_or_first_available_variant.quantity_rule.min }}"
-                                     {% if product.selected_or_first_available_variant.quantity_rule.max != null %}
-                                       data-max="{{ product.selected_or_first_available_variant.quantity_rule.max }}"
-                                       max="{{ product.selected_or_first_available_variant.quantity_rule.max }}"
-                                     {% endif %}
-                                    step="{{ product.selected_or_first_available_variant.quantity_rule.increment }}"
-                                    value="{{ product.selected_or_first_available_variant.quantity_rule.min }}"
-                                    form="{{ product_form_id }}"
-                                />
-                                <div id="variant-data" 
-                                  data-price="{{ price }}"
-                                  data-discount-10="{{ discount_10 }}"
-                                  data-discount-25="{{ discount_25 }}"
-                                  data-money-price="{{ money_price }}"
-                                  data-discount-10-money="{{ discount_10_money }}"
-                                  data-discount-25-money="{{ discount_25_money }}"
-                                >
-                                </div>
-                                <span class="bundle_swatch swatch_selected">
-                                  <input type="radio" id="quantity1" name="quantity" value="1" checked>
-                                  <label for="quantity1">
-                                  {{block.settings.buy1_before_text}} - <span id="currency-symbol" data-symbol="{{ cart.currency.symbol }}" style="display:none;"></span> <span class="bundle_price pr-one-quantity"></span> each
-                                  </label>
-                                </span>
-                                <span class="bundle_swatch ">
-                                  <input type="radio" id="quantity2" name="quantity" value="2">
-                                  <label for="quantity2">
-                                    {{block.settings.buy2_before_text}} - <span id="currency-symbol" data-symbol="{{ cart.currency.symbol }}" style="display:none;"></span><span class="bundle_price pr-two-less-four-quantity"></span> each (Save 10% EXTRA)
-                                  </label>
-                                </span>
-                                <span class="bundle_swatch ">
-                                  <input type="radio" id="quantity4" name="quantity" value="4">
-                                  <label for="quantity4">
-                                    {{block.settings.buy4_before_text}} - <span id="currency-symbol" data-symbol="{{ cart.currency.symbol }}" style="display:none;"></span><span class="bundle_price pr-four-or-more-quantity"></span> each (Save 25% EXTRA)
-                                  </label>
-                                </span>
+                        <span class="bundle_swatch swatch_selected">
+                          <input type="radio" id="quantity1" name="quantity" value="1" checked>
+                          <label for="quantity1">
+                          {{block.settings.buy1_before_text}} - <span id="currency-symbol" data-symbol="{{ cart.currency.symbol }}" style="display:none;"></span> <span class="bundle_price pr-one-quantity"></span> each
+                          </label>
+                        </span>
+                        <span class="bundle_swatch ">
+                          <input type="radio" id="quantity2" name="quantity" value="2">
+                          <label for="quantity2">
+                            {{block.settings.buy2_before_text}} - <span id="currency-symbol" data-symbol="{{ cart.currency.symbol }}" style="display:none;"></span><span class="bundle_price pr-two-less-four-quantity"></span> each (Save 10% EXTRA)
+                          </label>
+                        </span>
+                        <span class="bundle_swatch ">
+                          <input type="radio" id="quantity4" name="quantity" value="4">
+                          <label for="quantity4">
+                            {{block.settings.buy4_before_text}} - <span id="currency-symbol" data-symbol="{{ cart.currency.symbol }}" style="display:none;"></span><span class="bundle_price pr-four-or-more-quantity"></span> each (Save 25% EXTRA)
+                          </label>
+                        </span>
                         <div class="quantity__rules caption no-js-hidden">
                             {%- if product.selected_or_first_available_variant.quantity_rule.increment > 1 -%}
                             <span class="divider">{{- 'products.product.quantity.multiples_of' | t: quantity: product.selected_or_first_available_variant.quantity_rule.increment -}}</span>

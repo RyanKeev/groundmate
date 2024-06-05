@@ -334,8 +334,7 @@ assign discount_25_money = discount_25 | money
     })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 
 </script>
-
-{% render 'pagefly-app-header' %}{{ content_for_header }}{% include 'pagefly-app-header' %}{% render 'gp-head' %}
+{{ content_for_header }}
 </head>
 
   <body data-route="{{ template.name }}" class="gradient{% if settings.animations_hover_elements != 'none' %} animate--hover-{{ settings.animations_hover_elements }}{% endif %}">

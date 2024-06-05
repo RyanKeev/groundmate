@@ -209,7 +209,7 @@
         "column_7ePpjn": {
           "type": "column",
           "settings": {
-            "rating": "Rating",
+            "rating": "",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -219,7 +219,7 @@
         "column_rcqVJJ": {
           "type": "column",
           "settings": {
-            "rating": "Rating",
+            "rating": "",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -229,7 +229,7 @@
         "column_HDTtdi": {
           "type": "column",
           "settings": {
-            "rating": "Rating",
+            "rating": "",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -440,7 +440,7 @@
           "type": "image_picker",
           "settings": {
             "question_background": "#f7f3eb",
-            "faq_question": "What if Snoozy doesn't work for me?",
+            "faq_question": "Is Snoozy really safe to sleep on?",
             "faq_answer": "<p>What if Snoozy doesn't work for me?<\/p>"
           }
         },
@@ -448,15 +448,33 @@
           "type": "image_picker",
           "settings": {
             "question_background": "#f7f3eb",
-            "faq_question": "What if Snoozy doesn't work for me?",
+            "faq_question": "Will the antibacterial effects wear off over time?",
             "faq_answer": "<p>What if Snoozy doesn't work for me?<\/p>"
+          }
+        },
+        "image_picker_q3PgDf": {
+          "type": "image_picker",
+          "settings": {
+            "question_background": "#f7f3eb",
+            "faq_question": "How do I track my order?",
+            "faq_answer": "<p>xx<\/p>"
+          }
+        },
+        "image_picker_4aDt3J": {
+          "type": "image_picker",
+          "settings": {
+            "question_background": "#f7f3eb",
+            "faq_question": "Can children or pregnant women use Snoozy?",
+            "faq_answer": "<p>xx<\/p>"
           }
         }
       },
       "block_order": [
         "image_picker_JYyryX",
         "image_picker_TVen9T",
-        "image_picker_a6fBTz"
+        "image_picker_a6fBTz",
+        "image_picker_q3PgDf",
+        "image_picker_4aDt3J"
       ],
       "settings": {
         "show_section": true,

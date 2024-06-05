@@ -17,6 +17,7 @@
         },
         "description_e3N9TV": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
@@ -289,7 +290,7 @@
             "show_benefits_on_desktop": false,
             "show_benefits_on_mobile": false,
             "show_benefits_block": true,
-            "benefits_background": "#FFFFFF",
+            "benefits_background": "#ffffff",
             "benefits_image_one": "shopify:\/\/shop_images\/money-back-guarantee-black.png",
             "benefits_title_one": "Bacteria naturally eliminated",
             "benefits_image_two": "shopify:\/\/shop_images\/money-back-guarantee-black.png",
@@ -322,7 +323,7 @@
             "show_benefits_on_mobile": false,
             "show_benefits_block": true,
             "general_benefit_image": "shopify:\/\/shop_images\/groundmate-lp-testimonials.png",
-            "benefits_background": "#FFFFFF",
+            "benefits_background": "#ffffff",
             "benefits_title_one": "",
             "benefits_title_two": "",
             "benefits_title_third": "",
@@ -352,7 +353,7 @@
             "show_benefits_on_desktop": false,
             "show_benefits_on_mobile": false,
             "show_benefits_block": false,
-            "benefits_background": "#FFFFFF",
+            "benefits_background": "#ffffff",
             "benefits_title_one": "",
             "benefits_title_two": "",
             "benefits_title_third": "",

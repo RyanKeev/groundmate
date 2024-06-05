@@ -33,11 +33,12 @@
       </div>
       <div class="list-item">
         <div class="image img-wrap free-delivery">{% render 'icons', icon: 'icon-free-delivery' %}</div>
-        {%- if shop.url contains 'ph' -%}
+        <div class="text-wrap">🇪🇺 Free EU Shipping 2-3 days. Shipped from Germany.</div>
+        {% comment %} {%- if shop.url contains 'ph' -%}
           <div class="text-wrap">Free nationwide delivery {% render 'icons', icon: 'icon-fhilippines-flag' %}</div>
         {%- else -%}
           <div class="text-wrap">Free nationwide delivery {% render 'icons', icon: 'icon-usa-flag' %}</div>
-        {%- endif -%}
+        {%- endif -%} {% endcomment %}
       </div>
     </div>
 

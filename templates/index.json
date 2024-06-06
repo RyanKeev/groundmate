@@ -576,7 +576,7 @@
       ],
       "settings": {
         "show_desktop": false,
-        "show_mobile": false,
+        "show_mobile": true,
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "scheme-97e0205c-f84f-4e6a-926b-ee03c45956ad",
@@ -667,7 +667,7 @@
         "show_shadow": false,
         "disabled_fullwidth": false,
         "show_desktop": false,
-        "show_mobile": false,
+        "show_mobile": true,
         "is_regular_title": true,
         "title": "",
         "heading_size": "h1",

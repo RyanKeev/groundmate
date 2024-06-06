@@ -412,15 +412,28 @@
             "picker_type": "dropdown"
           }
         },
-        "quantity_selector_AHyN9b": {
-          "type": "quantity_selector",
+        "quantity_bundle_selector_K9CVBn": {
+          "type": "quantity_bundle_selector",
           "settings": {
+            "buy1_before_text": "1 sheet",
+            "buy2_before_text": "2 sheets",
+            "buy4_before_text": "4 sheets"
           }
         },
         "buy_buttons_g7jRyW": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false,
+            "hide_compare_at_price": false,
+            "pre_order_text": "",
+            "order_description": "Ordered before 10pm = Packed today",
+            "icon_pay_1th": "",
+            "icon_pay_2th": "",
+            "icon_pay_3th": "",
+            "icon_pay_4th": "",
+            "icon_pay_5th": "",
+            "icon_pay_6th": ""
           }
         }
       },
@@ -428,7 +441,7 @@
         "title_eMykr7",
         "price_BRb3wc",
         "variant_picker_wwqgc3",
-        "quantity_selector_AHyN9b",
+        "quantity_bundle_selector_K9CVBn",
         "buy_buttons_g7jRyW"
       ],
       "settings": {

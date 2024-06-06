@@ -309,8 +309,8 @@
         "show_price": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 64,
+        "padding_bottom": 64
       }
     },
     "section_image_with_text_4cXHF9": {
@@ -324,11 +324,11 @@
             "info_block_background_color": "#f7f3eb",
             "info_block_color": "#000000",
             "content_alignment": "left",
-            "note": "<b>Disclaimer:<\/b> Grounding practices may offer potential health benefits across various body systems. However, they are not intended to replace professional medical advice, diagnosis, or treatment. Individuals with specific medical conditions should consult a healthcare provider before incorporating grounding into their routine. Results may vary, and it's essential to approach grounding as part of a holistic wellness approach alongside regular medical care.",
+            "note": "Disclaimer: Grounding practices may offer potential health benefits across various body systems. However, they are not intended to replace professional medical advice, diagnosis, or treatment.",
             "image": "shopify:\/\/shop_images\/Snaptik.app_7333303970993032491_400x_64e2e1ee-d613-451f-b466-abb53506635d.gif",
             "caption": "",
             "title": "<h1><em>30 Minutes of Grounding<\/em><\/h1>",
-            "content": "<p>Here is a thermal image that shows inflammation on the body, with just 30 minutes of grounding<\/p>",
+            "content": "<p>Our Grounding Bed Sheets seamlessly connect to your home's grounding system via a standard plug. This system, anchored to a grounding rod outdoors, is deeply rooted in the Earth. Once plugged in, the sheets establish a direct conduit for the Earth's revitalizing energy to permeate your bed.<\/p>",
             "author": "",
             "button_label": "",
             "button_link": "",
@@ -465,7 +465,7 @@
         "heading_fgWAVd": {
           "type": "heading",
           "settings": {
-            "heading": "Groundmate In The Wild",
+            "heading": "<i>Groundmate In The Wild<\/i>",
             "heading_size": "h1"
           }
         }

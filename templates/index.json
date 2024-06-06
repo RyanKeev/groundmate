@@ -166,24 +166,24 @@
         "featured_collection_D48A3k": {
           "type": "featured_collection",
           "settings": {
-            "collection": "frontpage",
-            "button_text": "Buy Now",
+            "collection": "groundmate-relaxing-bed-sheet",
+            "button_text": "Save Now",
             "button_link": "shopify:\/\/products\/groundmate-bed-sheets"
           }
         },
         "featured_collection_8W3D8L": {
           "type": "featured_collection",
           "settings": {
-            "collection": "frontpage",
-            "button_text": "Save 38% Now",
+            "collection": "groundmate-flat-bed-sheets",
+            "button_text": "Save Now",
             "button_link": "shopify:\/\/products\/groundmate-grounding-flat-bed-sheet"
           }
         },
         "featured_collection_WJzPVz": {
           "type": "featured_collection",
           "settings": {
-            "collection": "frontpage",
-            "button_text": "Save 25% Now",
+            "collection": "groundmate-vitality-mat",
+            "button_text": "Save Now",
             "button_link": "shopify:\/\/products\/groundmate-grounding-cable"
           }
         }
@@ -576,7 +576,7 @@
       ],
       "settings": {
         "show_desktop": false,
-        "show_mobile": true,
+        "show_mobile": false,
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "scheme-97e0205c-f84f-4e6a-926b-ee03c45956ad",
@@ -667,7 +667,7 @@
         "show_shadow": false,
         "disabled_fullwidth": false,
         "show_desktop": false,
-        "show_mobile": true,
+        "show_mobile": false,
         "is_regular_title": true,
         "title": "",
         "heading_size": "h1",

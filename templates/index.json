@@ -167,16 +167,8 @@
           "type": "featured_collection",
           "settings": {
             "collection": "frontpage",
-            "button_text": "PRE-ORDER",
-            "button_link": ""
-          }
-        },
-        "featured_collection_WJzPVz": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "frontpage",
-            "button_text": "Save 25% Now",
-            "button_link": "shopify:\/\/products\/19-momme-silk-pillowcase"
+            "button_text": "Buy Now",
+            "button_link": "shopify:\/\/products\/groundmate-bed-sheets"
           }
         },
         "featured_collection_8W3D8L": {
@@ -184,14 +176,22 @@
           "settings": {
             "collection": "frontpage",
             "button_text": "Save 38% Now",
-            "button_link": "shopify:\/\/products\/standard-pillowcase"
+            "button_link": "shopify:\/\/products\/groundmate-grounding-flat-bed-sheet"
+          }
+        },
+        "featured_collection_WJzPVz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "frontpage",
+            "button_text": "Save 25% Now",
+            "button_link": "shopify:\/\/products\/groundmate-grounding-cable"
           }
         }
       },
       "block_order": [
         "featured_collection_D48A3k",
-        "featured_collection_WJzPVz",
-        "featured_collection_8W3D8L"
+        "featured_collection_8W3D8L",
+        "featured_collection_WJzPVz"
       ],
       "settings": {
         "show_desktop": false,

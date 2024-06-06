@@ -38,7 +38,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/groundmate-hero-banner.jpg",
         "mobile_image": "shopify:\/\/shop_images\/groundmate-hero-banner.jpg",
-        "image_overlay_opacity": 40,
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": false,

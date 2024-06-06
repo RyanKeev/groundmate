@@ -76,12 +76,13 @@
         "review_zyzmXB",
         "review_g7d4wN"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Over 50,000 sleepers  have spoken",
         "fans_comment": "What our fans say",
         "rating": "★★★★★ (4.8)",
         "content": "<p>based 2,814 Reviews<\/p>",
-        "background_start_color": "#f35f90",
+        "background_start_color": "#73a05c",
         "background_end_color": "rgba(0,0,0,0)",
         "text_color": "#ffffff",
         "padding": 50
@@ -319,7 +320,7 @@
           "settings": {
             "half_width": false,
             "image_first": false,
-            "info_block_background_color": "#c0e0f7",
+            "info_block_background_color": "#f7f3eb",
             "info_block_color": "#000000",
             "content_alignment": "left",
             "note": "*7 day growth comparison after sleeping on Snoozy and cotton for 3 nights without washing",
@@ -352,7 +353,7 @@
         "show_section": true,
         "use_style_2_benefits_icon": false,
         "show_section_decor": true,
-        "section_background": "#c0e0f7",
+        "section_background": "#f7f3eb",
         "section_decor_color": "#f7f3eb",
         "section_title": ""
       }
@@ -629,7 +630,7 @@
         "heading_T46AHM": {
           "type": "heading",
           "settings": {
-            "heading": "Join us @groundmate.io",
+            "heading": "Join us @Groundmate.io",
             "heading_size": "h1"
           }
         }

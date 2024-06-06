@@ -6,7 +6,7 @@
         "text_mmJb9V": {
           "type": "text",
           "settings": {
-            "text": "<strong>GET YOURS TODAY<\/strong>",
+            "text": "<em><strong>GET YOURS TODAY<\/strong><\/em>",
             "text_style": "body"
           }
         },

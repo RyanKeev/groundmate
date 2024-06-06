@@ -324,7 +324,7 @@
             "info_block_background_color": "#f7f3eb",
             "info_block_color": "#000000",
             "content_alignment": "left",
-            "note": "*7 day growth comparison after sleeping on Snoozy and cotton for 3 nights without washing",
+            "note": "<b>Disclaimer:<\/b> Grounding practices may offer potential health benefits across various body systems. However, they are not intended to replace professional medical advice, diagnosis, or treatment. Individuals with specific medical conditions should consult a healthcare provider before incorporating grounding into their routine. Results may vary, and it's essential to approach grounding as part of a holistic wellness approach alongside regular medical care.",
             "image": "shopify:\/\/shop_images\/Snaptik.app_7333303970993032491_400x_64e2e1ee-d613-451f-b466-abb53506635d.gif",
             "caption": "",
             "title": "<h1><em>30 Minutes of Grounding<\/em><\/h1>",
@@ -566,7 +566,7 @@
         "heading_zQkKFM": {
           "type": "heading",
           "settings": {
-            "heading": "<i>Made For Everyone<\/i>",
+            "heading": "Ground Benefits For Everyone",
             "heading_size": "h1"
           }
         }
@@ -591,8 +591,9 @@
         "column_jBeP9R": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/sleep.png",
             "rating": "",
-            "title": "All Skin Types",
+            "title": "Sleep improvement",
             "text": "",
             "link_label": "",
             "link": ""
@@ -601,8 +602,9 @@
         "column_zqekBk": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/stress.png",
             "rating": "",
-            "title": "Affordable",
+            "title": "Stress reduction",
             "text": "",
             "link_label": "",
             "link": ""
@@ -611,8 +613,9 @@
         "column_xKNFYK": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/pain.png",
             "rating": "",
-            "title": "Vegan Options",
+            "title": "Pain relief",
             "text": "",
             "link_label": "",
             "link": ""
@@ -621,8 +624,9 @@
         "column_twVeWB": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/power.png",
             "rating": "",
-            "title": "Ultra Soft",
+            "title": "Energy boost",
             "text": "",
             "link_label": "",
             "link": ""
@@ -631,8 +635,9 @@
         "column_xPQPFH": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/doctor.png",
             "rating": "",
-            "title": "Easy Care",
+            "title": "Better circulation",
             "text": "",
             "link_label": "",
             "link": ""
@@ -641,8 +646,9 @@
         "column_PJDGf6": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/regeneration.png",
             "rating": "",
-            "title": "Top Rated",
+            "title": "Faster recovery",
             "text": "",
             "link_label": "",
             "link": ""

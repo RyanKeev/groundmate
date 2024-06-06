@@ -37,6 +37,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/groundmate-hero-banner.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/groundmate-hero-banner.jpg",
         "image_overlay_opacity": 40,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
@@ -391,6 +392,60 @@
         "padding_bottom": 20
       }
     },
+    "featured_product_79aqxR": {
+      "type": "featured-product",
+      "blocks": {
+        "title_eMykr7": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_BRb3wc": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_wwqgc3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
+          }
+        },
+        "quantity_selector_AHyN9b": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_g7jRyW": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        }
+      },
+      "block_order": [
+        "title_eMykr7",
+        "price_BRb3wc",
+        "variant_picker_wwqgc3",
+        "quantity_selector_AHyN9b",
+        "buy_buttons_g7jRyW"
+      ],
+      "settings": {
+        "product": "groundmate-bed-sheets",
+        "color_scheme": "scheme-3e67202a-86ca-4178-993a-f35dbb979c3c",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_mXwBRa": {
       "type": "rich-text",
       "blocks": {
@@ -730,6 +785,7 @@
     "featured_collection_L6dPDQ",
     "section_image_with_text_4cXHF9",
     "rich_text_r6kyEa",
+    "featured_product_79aqxR",
     "rich_text_mXwBRa",
     "multicolumn_nTcJzB",
     "rich_text_6iUbWP",

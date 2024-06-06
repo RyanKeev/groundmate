@@ -3547,7 +3547,7 @@ html{
 
 @media (max-width:749px){
   .container{
-    padding: 50px 15px 50px 15px;
+    padding: 30px 15px 30px 15px;
     width: 100%;
     margin: auto;
     max-width: 1300px;

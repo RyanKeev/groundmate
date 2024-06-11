@@ -209,9 +209,10 @@
         "column_7ePpjn": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/fbcomments-pdp-groundmate-3.jpg",
             "rating": "",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -219,19 +220,21 @@
         "column_rcqVJJ": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/fbcomments-pdp-groundmate-2.jpg",
             "rating": "",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "column_HDTtdi": {
+        "column_f87DDh": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/fbcomments-pdp-groundmate-1.jpg",
             "rating": "",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -240,7 +243,7 @@
       "block_order": [
         "column_7ePpjn",
         "column_rcqVJJ",
-        "column_HDTtdi"
+        "column_f87DDh"
       ],
       "settings": {
         "show_shadow": true,

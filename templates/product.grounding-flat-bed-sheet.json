@@ -278,8 +278,8 @@
             "note": "",
             "image": "shopify:\/\/shop_images\/groundmate-lp-4.jpg",
             "caption": "",
-            "title": "<h1>The Science Explained<\/h1>",
-            "content": "<p>Antibacterial silver has been used for years as a safe way to stop smell and bacterial spread. Silver ions bind to bacteria to prevent them from reproducing.<\/p>",
+            "title": "<h1>How Do Our Bed Sheets Work?<\/h1>",
+            "content": "<p>The GroundMate Bedsheet brings Earth's natural electrons straight to your bed using a grounding cable connected to your wall. This lets you enjoy the rejuvenating effects of grounding while sleeping comfortably.<\/p>",
             "author": "",
             "button_label": "",
             "button_link": "",
@@ -291,10 +291,10 @@
             "show_benefits_on_mobile": false,
             "show_benefits_block": true,
             "benefits_background": "#ffffff",
-            "benefits_image_one": "shopify:\/\/shop_images\/money-back-guarantee-black.png",
-            "benefits_title_one": "Bacteria naturally eliminated",
-            "benefits_image_two": "shopify:\/\/shop_images\/money-back-guarantee-black.png",
-            "benefits_title_two": "Fewer clogged pores and breakouts",
+            "benefits_image_one": "shopify:\/\/shop_images\/groundmate-icon-nature.png",
+            "benefits_title_one": "Reconnect With Nature: <br> Enjoy the benefits of barefoot walking while you sleep.",
+            "benefits_image_two": "shopify:\/\/shop_images\/groundmate-icon-body.png",
+            "benefits_title_two": "Harmonize Your Body: <br> Restore natural balance and regulate your body for better well-being.",
             "benefits_title_third": "",
             "benefits_title_fourth": ""
           }
@@ -310,8 +310,8 @@
             "note": "",
             "image": "shopify:\/\/shop_images\/groundmate-lp-5.jpg",
             "caption": "",
-            "title": "<h1>Visible results in 4 nights<\/h1>",
-            "content": "<p><strong>Designed by dermatologists to recover your skin <\/strong>overnight and protect it from irritation- and acne-causing bacteria. This pillowcase with silver ions will give you <strong>better sleep and real results.<\/strong><\/p>",
+            "title": "<h1>Grounding Effects<\/h1>",
+            "content": "<p>By making this connection, it stops electromagnetic interference from flowing through your body's cells, ensuring you get a truly refreshing sleep. Throughout the night, while your body is busy healing and regenerating, this sheet helps keep your electrical balance just right.<\/p>",
             "author": "",
             "button_label": "",
             "button_link": "",
@@ -339,9 +339,10 @@
             "info_block_color": "#000000",
             "content_alignment": "center",
             "note": "",
+            "image": "shopify:\/\/shop_images\/Snaptik.app_7333303970993032491_400x_64e2e1ee-d613-451f-b466-abb53506635d.gif",
             "caption": "",
-            "title": "<h1>Repels Bacteria Like An Invisible Forcefield<\/h1>",
-            "content": "<p>Our pillowcases can have 1000x more bacteria than your toilet seat, shown to clog pores and trigger breakouts. Like an invisible forcefield, Snoozy's silver stops 99.7% of the nasties before they affect your skin.<\/p>",
+            "title": "<h1>What happens to our blood when we are grounded?<\/h1>",
+            "content": "<p>Grounding helps stabilize your internal systems and balance stress. This aids in overall bodily function helping you sleep at night<\/p>",
             "author": "",
             "button_label": "",
             "button_link": "",
@@ -381,7 +382,7 @@
         "heading_aqr4NF": {
           "type": "heading",
           "settings": {
-            "heading": "Snoozy Versus <br> Regular Pillowcases",
+            "heading": "Why Choose GroundMate ? 😌",
             "heading_size": "h1"
           }
         }
@@ -403,7 +404,7 @@
     "multicolumn_YGnxGM": {
       "type": "multicolumn",
       "settings": {
-        "image_banner": "shopify:\/\/shop_images\/groundmate-lp-4.jpg",
+        "image_banner": "shopify:\/\/shop_images\/Comparison.png",
         "show_shadow": false,
         "disabled_fullwidth": false,
         "show_desktop": false,
@@ -432,32 +433,32 @@
           "type": "image_picker",
           "settings": {
             "question_background": "#ffffff",
-            "faq_question": "What if Snoozy doesn't work for me?",
-            "faq_answer": "<p>If for any reason you feel that Snoozy isn't working for you or you're simply not vibing it, simply send us an email to hello@snoozy.com.ph and we'll fix you up with a full refund.<\/p>"
+            "faq_question": "How long should you ground each day",
+            "faq_answer": "<p>It's recommended that you ground yourself for at least 30 minutes to 1 hour daily. Grounding during sleep can enhance healing and improve sleep quality. <\/p><p>Studies indicate that grounding at night with grounding bed sheets, mats or pillows helps decrease nighttime cortisol levels and helps realign cortisol hormone secretion to better match the natural 24-hour circadian rhythm profile.<\/p>"
           }
         },
         "image_picker_TVen9T": {
           "type": "image_picker",
           "settings": {
             "question_background": "#f7f3eb",
-            "faq_question": "Is Snoozy really safe to sleep on?",
-            "faq_answer": "<p>What if Snoozy doesn't work for me?<\/p>"
+            "faq_question": "Are grounding bed sheets safe for children?",
+            "faq_answer": "<p>Yes, grounding bed sheets are safe for children when used as directed. They provide a natural and gentle way to promote better sleep and overall health.<\/p>"
           }
         },
         "image_picker_a6fBTz": {
           "type": "image_picker",
           "settings": {
             "question_background": "#f7f3eb",
-            "faq_question": "Will the antibacterial effects wear off over time?",
-            "faq_answer": "<p>What if Snoozy doesn't work for me?<\/p>"
+            "faq_question": "How long does it take to experience the benefits of grounding bed sheets?",
+            "faq_answer": "<p>The time it takes to experience the benefits of grounding bed sheets can vary. Some individuals may notice improvements in sleep and well-being shortly after use, while others may take longer to see results.<\/p>"
           }
         },
         "image_picker_q3PgDf": {
           "type": "image_picker",
           "settings": {
             "question_background": "#f7f3eb",
-            "faq_question": "How do I track my order?",
-            "faq_answer": "<p>xx<\/p>"
+            "faq_question": "Can grounding bed sheets help with specific health conditions like insomnia or arthritis?",
+            "faq_answer": "<p>Grounding bed sheets have shown promise in helping with various health conditions, including insomnia and arthritis, by promoting better sleep and reducing inflammation. However, individual results may vary, and it's essential to consult with a healthcare professional for personalized advice.<\/p>"
           }
         },
         "image_picker_4aDt3J": {

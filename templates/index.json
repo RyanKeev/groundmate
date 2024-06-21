@@ -208,12 +208,12 @@
         "show_mobile": false,
         "title": "",
         "heading_size": "h1",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 2,
         "color_scheme": "scheme-3e67202a-86ca-4178-993a-f35dbb979c3c",
         "show_view_all": false,
         "columns_mobile": "1",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 32
       }
